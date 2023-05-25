@@ -1,0 +1,104 @@
+From Child Worker Thread:
+0 - Thread Number
+19032.400 - Root of Sum of Squares
+463.577 - geometric average (that is, the nth root of the product of the n numbers)
+541.748 - arithmetic average (that is, the sum of n numbers divided by n)
+
+From Child Worker Thread:
+1 - Thread Number
+19407.150 - Root of Sum of Squares
+474.097From Child Worker Thread:
+3 - Thread Number
+18868.716 - Root of Sum of Squares
+460.727 - geometric average (that is, the nth root of the product of the n numbers)
+537.202 - arithmetic average (that is, the sum of n numbers divided by n)
+
+ - geometric average (that is, the nth root of the product of the n numbers)
+From Child Worker Thread:
+2From Child Worker Thread:
+4 - Thread Number
+19145.782 - Root of Sum of Squares
+468.338 - geometric average (that is, the nth root of the product of the n numbers)
+545.694 - arithmetic average (that is, the sum of n numbers divided by n)
+
+From Child Worker Thread:
+6 - Thread Number
+19697.044 - Root of Sum of Squares
+493.759 - geometric average (that is, the nth root of the product of the n numbers)
+567.802 - arithmetic average (that is, the sum of n numbers divided by n)
+
+From Child Worker Thread:
+10From Child Worker Thread:
+552.82712 - Thread Number
+From Child Worker Thread:
+From Child Worker Thread:
+From Child Worker Thread:
+19446.882 - Root of Sum of Squares
+813From Child Worker Thread:
+ - Thread Number
+From Child Worker Thread:
+119 - Thread Number
+481.092 - geometric average (that is, the nth root of the product of the n numbers)
+ - Thread Number
+ - Thread Number
+19346.67919032.673From Child Worker Thread:
+19046.119 - Root of Sum of Squares
+7 - Root of Sum of Squares
+463.81819160.733 - arithmetic average (that is, the sum of n numbers divided by n)
+
+469.815 - geometric average (that is, the nth root of the product of the n numbers)
+544.418 - Thread Number
+ - Root of Sum of Squares
+19351.008 - geometric average (that is, the nth root of the product of the n numbers)
+ - Root of Sum of Squares
+ - Root of Sum of Squares
+556.996482.730475.012 - arithmetic average (that is, the sum of n numbers divided by n)
+
+ - Thread Number
+19241.368 - arithmetic average (that is, the sum of n numbers divided by n)
+
+ - Root of Sum of Squares
+476.676482.947 - Thread Number
+5 - geometric average (that is, the nth root of the product of the n numbers)
+551.620 - arithmetic average (that is, the sum of n numbers divided by n)
+
+ - geometric average (that is, the nth root of the product of the n numbers)
+ - geometric average (that is, the nth root of the product of the n numbers)
+ - Thread Number
+18768.491551.772 - arithmetic average (that is, the sum of n numbers divided by n)
+
+18652.795541.623 - arithmetic average (that is, the sum of n numbers divided by n)
+
+ - geometric average (that is, the nth root of the product of the n numbers)
+552.579555.121 - Root of Sum of Squares
+ - arithmetic average (that is, the sum of n numbers divided by n)
+
+ - arithmetic average (that is, the sum of n numbers divided by n)
+
+459.777 - Root of Sum of Squares
+ - geometric average (that is, the nth root of the product of the n numbers)
+453.121 - geometric average (that is, the nth root of the product of the n numbers)
+529.617 - arithmetic average (that is, the sum of n numbers divided by n)
+
+534.557 - arithmetic average (that is, the sum of n numbers divided by n)
+
+From Main Program Thread:
+Worker Child Pthread Number = 0 : 	 Root of the Sum of Squares = 19032.400 : 	 Geometric Average = 463.577 : 	 Arithmetic Average = 541.748
+Worker Child Pthread Number = 1 : 	 Root of the Sum of Squares = 19407.150 : 	 Geometric Average = 474.097 : 	 Arithmetic Average = 552.827
+Worker Child Pthread Number = 2 : 	 Root of the Sum of Squares = 18768.491 : 	 Geometric Average = 459.777 : 	 Arithmetic Average = 534.557
+Worker Child Pthread Number = 3 : 	 Root of the Sum of Squares = 18868.716 : 	 Geometric Average = 460.727 : 	 Arithmetic Average = 537.202
+Worker Child Pthread Number = 4 : 	 Root of the Sum of Squares = 19145.782 : 	 Geometric Average = 468.338 : 	 Arithmetic Average = 545.694
+Worker Child Pthread Number = 5 : 	 Root of the Sum of Squares = 18652.795 : 	 Geometric Average = 453.121 : 	 Arithmetic Average = 529.617
+Worker Child Pthread Number = 6 : 	 Root of the Sum of Squares = 19697.044 : 	 Geometric Average = 493.759 : 	 Arithmetic Average = 567.802
+Worker Child Pthread Number = 7 : 	 Root of the Sum of Squares = 19241.368 : 	 Geometric Average = 476.676 : 	 Arithmetic Average = 551.620
+Worker Child Pthread Number = 8 : 	 Root of the Sum of Squares = 19160.733 : 	 Geometric Average = 482.730 : 	 Arithmetic Average = 551.772
+Worker Child Pthread Number = 9 : 	 Root of the Sum of Squares = 19032.673 : 	 Geometric Average = 463.818 : 	 Arithmetic Average = 541.623
+Worker Child Pthread Number = 10 : 	 Root of the Sum of Squares = 19446.882 : 	 Geometric Average = 481.092 : 	 Arithmetic Average = 556.996
+Worker Child Pthread Number = 11 : 	 Root of the Sum of Squares = 19351.008 : 	 Geometric Average = 475.012 : 	 Arithmetic Average = 552.579
+Worker Child Pthread Number = 12 : 	 Root of the Sum of Squares = 19346.679 : 	 Geometric Average = 482.947 : 	 Arithmetic Average = 555.121
+Worker Child Pthread Number = 13 : 	 Root of the Sum of Squares = 19046.119 : 	 Geometric Average = 469.815 : 	 Arithmetic Average = 544.418
+
+Main program thread:	Min of the Root of the Sum of Squares =	18652.795
+Main program thread:	Min of the Geometric Averages =	453.121
+Main program thread:	Min of the Arithmetic Averages =	529.617
+Main program thread: Terminating. 
