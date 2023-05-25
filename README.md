@@ -25,7 +25,7 @@ To compile and run the program, follow these steps:
 3. Compile the program by executing the following command:
 
     ```bash
-        gcc -o program program.c -lm -lpthread
+        gcc -o program MultiThreading.c -lm -lpthread
     ```
 
     The compilation command uses the following flags:
